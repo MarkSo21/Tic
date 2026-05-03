@@ -1,6 +1,7 @@
 # Tic-Tac-Toe 
 
 A text-based Tic-Tac-Toe game with AI opponent for ENGG1340 / COMP2113 Course Project.
+Video:https://drive.google.com/file/d/1PFxMAjAtCfgb6P4-e2nEzORQxh0rhCLt/view?usp=sharing
 
 ## Team Members
 - So Yuet (3036060874）
