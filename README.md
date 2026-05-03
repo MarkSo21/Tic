@@ -23,4 +23,5 @@ Rules for Tic-Tac-Toe
 
 ## Compilation & Execution
 make
+
 ./tictactoe
