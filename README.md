@@ -8,7 +8,7 @@ A text-based Tic-Tac-Toe game with AI opponent for ENGG1340 / COMP2113 Course Pr
 ## Game Description
 Classic 3x3 Tic-Tac-Toe with 3 difficulty levels. Hard mode uses Minimax algorithm.
 
-## Features & How Requirements Are Met
+## Features 
 - **Random events**: Easy AI uses random move (rand())
 - **Data structures**: `char board[9]` + `std::vector<int>` for move history
 - **Dynamic memory management**: `std::vector` automatically expands for move history
